@@ -11,7 +11,7 @@ public class SpringBootDockerApplication {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Sagar";
+		return "Sagar Mohanty";
 	}
 
 	public static void main(String[] args) {
